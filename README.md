@@ -1,2 +1,3 @@
 niku
 sakana
+kinoko
